@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Fire in Her Eyes
+
+This log tracks the cryptographic history and versioning for the song **Fire in Her Eyes** (fire-in-her-eyes).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-19T00:05:15.391226 | `v1` | `a5a29b8641a6ba538213523ddaf21907c6c3b9f683a4c81fda725e6b4d2ca87a` | `4ef97893d1009f0d52f682ab396e649ed0da5f53f769ef9bd8aeccb4bd1a3cf1` | `2026-05-19_fire-in-her-eyes-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
