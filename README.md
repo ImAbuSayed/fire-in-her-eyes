@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/fire-in-her-eyes/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Fire in Her Eyes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fire-in-her-eyes/) |
+| **Get License** | [License this song: Fire in Her Eyes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fire-in-her-eyes/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Nigahwaan 'ch agg laike takkdi ae mainu, feel the heat
+> Seene vich machdi ae hulchal saari, heart skip a beat
+> Main taan khada haan tere raahan vich kalla, purely yours
+> Teriyan adawaan ne kita mainu pagal, breakin' the doors
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -108,7 +111,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
 | **SHA-256 Hash** | `N/A` |
-| **Timestamp** | May 18, 2026 |
+| **Timestamp** | May 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
