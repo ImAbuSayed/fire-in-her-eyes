@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/fire-in-her-eyes/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Fire in Her Eyes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fire-in-her-eyes/) |
+| **Get License** | [Commercial Licensing for Fire in Her Eyes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fire-in-her-eyes/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/1619)
 
 ---
 
